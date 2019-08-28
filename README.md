@@ -1,5 +1,10 @@
 # 01-Introduction
 
+# Description:
+# In this program, I am trying to use python code to answer some questions.
+# At the top, utils is imported which can be use to check the version of Python.
+# All of the answers are output by using print('').
+
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
